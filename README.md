@@ -168,5 +168,3 @@ idf.py -p COM3 flash monitor
 ## 贡献 & 版权
 
 欢迎提交 issue 或 PR。当前仓库未明确声明许可证（LICENSE 文件），请在合并前添加合适的开源许可证。
-
----
